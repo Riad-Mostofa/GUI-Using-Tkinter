@@ -1,0 +1,6 @@
+('Mostofa', 'M', '21', 'wechat', 1)
+ ('Mostofa', 'M', '21', 'wechat', 0)
+ ('Mostofa', 'M', '21', 'wechat', 1)
+ ('Mostofa', 'M', '21', 'wechat', 0)
+ ('', '', '', '', 0)
+ 
